@@ -3,8 +3,10 @@ title = "Contact"
 slug = "contact"
 +++
 
-You can reach me on:
+### You can reach me on:
 
-**gmar [at] image [dot] ntua [dot] gr**
+![email](/images/email.png)
 
-My **GPG** key is:
+### My **GPG** key is:
+
+![gpgkey](/images/gpgpublickey.png)
