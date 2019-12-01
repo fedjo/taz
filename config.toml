@@ -97,9 +97,9 @@ disqusShortname = "yourdiscussshortname"
         url = "/about/"
 
         [[languages.en.menu.main]]
-        name = "CV"
+        name = "Resume"
         weight = 2
-        url = "/cv/"
+        url = "/resume/"
 
         [[languages.en.menu.main]]
         name = "Projects"
@@ -107,13 +107,8 @@ disqusShortname = "yourdiscussshortname"
         url = "/projects/"
 
         [[languages.en.menu.main]]
-        name = "Blog"
-        weight = 4
-        url = "/posts/"
-
-        [[languages.en.menu.main]]
         name = "Contact me"
-        weight = 5
+        weight = 4
         url = "/contact/"
 
 
